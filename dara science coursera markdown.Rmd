@@ -1,12 +1,10 @@
 ---
 title: "Hello World"
-author: "I am the author"
-date: "1 4 2020"
 output: html_document
 ---
 
 
 ## This is a Markdown file
-Also check out this other [file](https://youtu.be/dQw4w9WgXcQ)
+
 
 
